@@ -6,4 +6,11 @@ This purpose of this project was to create an a simple full stack banking applic
 2. git clone my project
 3. npm install modules you may need by looking at my package.json file
 4. type node index.js and the application will start
+# Gif of App in Action
+In my repository you will find a gif of me testing the login authorization feature then checking the current balance in the all-data tab at the end.
+# Technology Used
+In my project is used Javascript for the code, Docker to create an image for my DB, MongoDB as the datas store and Firebase for login auhtentication.
+# License
+MIT
+
 
