@@ -6,7 +6,7 @@ This purpose of this project was to create an a simple full stack banking applic
 2. git clone my project
 3. npm install modules you may need by looking at my package.json file
 4. Visit Firebase. Start an account. Select the proper configuration for your enivronment and add it where my code asks for it. 
-5. type node index.js and the application will start
+5. Type node index.js to start application.
 6. navigate to the localhost address in your browser and begin using app
 # Gif of App in Action
 In my repository you will find a gif of me testing the login authorization feature then checking the current balance in the all-data tab at the end.
