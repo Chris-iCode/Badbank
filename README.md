@@ -5,7 +5,7 @@ This purpose of this project was to create an a simple full stack banking applic
 1. start ssh in your terminal and add the ssh key
 2. git clone my project
 3. npm install modules you may need by looking at my package.json file
-4. visit Firebase. Start an account, select the proper configuration for your enivronment. Add it where my code asks for it. 
+4. Visit Firebase. Start an account. Select the proper configuration for your enivronment and add it where my code asks for it. 
 5. type node index.js and the application will start
 6. navigate to the localhost address in your browser and begin using app
 # Gif of App in Action
