@@ -39,14 +39,14 @@ function LoginForm(props){
 
 
 
-  const firebaseConfig = {
-    apiKey: "AIzaSyAunoJEAyN8xOZjSFlt_3iVwIFzTTAi3L0",
-    authDomain: "badbank-be1e4.firebaseapp.com",
-    projectId: "badbank-be1e4",
-    storageBucket: "badbank-be1e4.appspot.com",
-    messagingSenderId: "1073572267766",
-    appId: "1:1073572267766:web:0fff8bfcc84be23276ced7"
-  };
+ const firebaseConfig = {
+  apiKey: ,
+  authDomain: ,
+  projectId: ,
+  storageBucket: ,
+  messagingSenderId: ,
+  appId: 
+};
 
   if (firebase.apps.length === 0) {
     firebase.initializeApp(firebaseConfig);
