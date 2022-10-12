@@ -1,0 +1,56 @@
+.logo-image{
+  padding: 5px;
+  width: 45px;
+  height: 40px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-top: -6px;
+}
+
+nav a:hover { color: rgb(26, 255, 0) !important; }
+
+.card {
+  margin: 0 auto;
+  float: none; 
+  margin-bottom: 10px; 
+}
+
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+-webkit-appearance: none;
+margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+-moz-appearance: textfield;
+}
+
+#logout {
+position: relative;
+left: 10px;
+}
+
+#alert {
+position: fixed;
+top: 1px;
+right: 50px;
+width: 20em;
+height: 3.6em;
+text-align: center;
+}
+
+.boston{
+border-radius: 5px;
+border: 0;
+
+}
+
+.celtics{
+position:absolute;
+border-radius: 5px;
+right: 20px;
+border:0;
+}
