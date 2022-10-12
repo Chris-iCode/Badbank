@@ -1,7 +1,7 @@
 const MongoClient = require('mongodb').MongoClient;
 const mongoose = require('mongoose')
 // const url = 'mongodb://localhost:27017';
-const url = 'mongodb+srv://comanche:arrow@cluster0.4x83byb.mongodb.net/?retryWrites=true&w=majority';
+const url = 'mongodb+srv://comanche:<password>@cluster0.4x83byb.mongodb.net/?retryWrites=true&w=majority';
 let db = null;
 
 const connectionParams={
